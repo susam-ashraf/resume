@@ -1,0 +1,257 @@
+/* Large desktops and laptops */
+@media (min-width: 1200px) {
+
+}
+
+/* Landscape tablets and medium desktops */
+@media (min-width: 992px) and (max-width: 1199px) {
+
+    header h1 {
+    font-size: 50px;
+    margin-right: 70px;
+    }
+    header p {
+    margin-right: 70px;
+    padding-left: 0;
+    }
+    #hobbies .fa {
+    padding: 10px 8px;
+    }
+    #languages .scale ul li {
+    margin-right: 3px;
+    }
+    #skills .scale ul li {
+    margin-right: 3px;
+    }
+    
+}
+
+/* Portrait tablets and small desktops */
+@media (min-width: 768px) and (max-width: 991px) {
+    header h1 {
+    font-size: 35px;
+    margin-right: 20px;
+    }
+    header p {
+    margin-right: 70px; 
+    padding-left: 0;
+    margin-right: 20px;
+    font-size: 13px;
+    }
+    #contact .fa {
+    font-size: 20px;
+    background: #fff;
+    border-radius: 55%;
+    padding: 7px 8px;
+    }
+    #contact p {
+    font-size: 11px;
+    }
+    #hobbies .fa {
+    padding: 10px 5px;
+    font-size: 30px;
+    }
+    #languages .scale ul li {
+    margin-right: 0;
+    }
+    #skills .scale ul li {
+    margin-right: 0;
+    }
+    #about h2 {
+    font-size: 25px;
+    }
+    #about p{
+    font-size: 12px;
+    }
+    #education h2 {
+    font-size: 25px;
+    }
+    #education p{
+    font-size: 12px;
+    }
+    #experience h2 {
+    font-size: 25px;
+    }
+    #experience p{
+    font-size: 12px;
+    }
+    #education2 h2 {
+    font-size: 25px;
+    }
+    #education2 p{
+    font-size: 12px;
+    }
+    #languages .scale ul li {
+    width: 12px;
+    height: 12px;
+    }
+    #skills .scale ul li {
+    width: 12px;
+    height: 12px;
+    }
+    #about {
+    padding: 5px 35px 0px 35px;
+    }
+    #education {
+    padding: 0px 35px 0px 35px;
+    }
+    #education p {
+    margin-bottom: 20px;
+    }
+    
+}
+
+/* Landscape phones and portrait tablets */
+@media screen and (min-width:  481px) and (max-width: 767px){
+    .container {
+    width: 465px;
+    }
+    header h1 {
+    font-size: 35px;
+    margin-right: 20px;
+    }
+    header p {
+    margin-right: 70px; 
+    padding-left: 0;
+    margin-right: 20px;
+    font-size: 13px;
+    }
+    header img {
+    margin-left: 110px;
+    }
+    #contact .fa {
+    font-size: 20px;
+    background: #fff;
+    border-radius: 55%;
+    padding: 7px 8px;
+    }
+    #hobbies .fa {
+    padding: 10px 25px;
+    font-size: 30px;
+    }
+    #languages .scale ul li {
+    margin-right: 11px;
+    }
+    #skills .scale ul li {
+    margin-right: 11px;
+    }
+    #about h2 {
+    font-size: 25px;
+    }
+    #about p{
+    font-size: 12px;
+    }
+    #education h2 {
+    font-size: 25px;
+    }
+    #education p{
+    font-size: 12px;
+    }
+    #experience h2 {
+    font-size: 25px;
+    }
+    #experience p{
+    font-size: 12px;
+    }
+    #education2 h2 {
+    font-size: 25px;
+    }
+    #education2 p{
+    font-size: 12px;
+    }
+    #languages .scale ul li {
+    width: 12px;
+    height: 12px;
+    }
+    #skills .scale ul li {
+    width: 12px;
+    height: 12px;
+    }
+    #about {
+    padding: 5px 35px 0px 35px;
+    }
+    #education {
+    padding: 0px 35px 0px 35px;
+    }
+    #education p {
+    margin-bottom: 20px;
+    }
+    
+}
+
+/* Portrait phones and smaller */
+@media (max-width: 480px) {
+    
+    .container {
+    width: 300px;
+    }
+    header h1 {
+    font-size: 22px;
+    margin-right: 20px;
+    }
+    header p {
+    padding-left: 0;
+    margin-right: 20px;
+    font-size: 11px;
+    }
+    header img {
+    margin-left: 55px;
+    }
+    #contact .fa {
+    font-size: 20px;
+    background: #fff;
+    border-radius: 55%;
+    padding: 7px 8px;
+    }
+    #hobbies .fa {
+    padding: 10px 25px;
+    font-size: 30px;
+    }
+    #languages .scale ul li {
+    margin-right: 5px;
+    }
+    #skills .scale ul li {
+    margin-right: 5px;
+    }
+    #about h2 {
+    font-size: 25px;
+    }
+    #about p{
+    font-size: 12px;
+    }
+    #education h2 {
+    font-size: 25px;
+    }
+    #education p{
+    font-size: 12px;
+    }
+    #experience h2 {
+    font-size: 25px;
+    }
+    #experience p{
+    font-size: 12px;
+    }
+    #education2 h2 {
+    font-size: 25px;
+    }
+    #education2 p{
+    font-size: 12px;
+    }
+    #languages .scale ul li {
+    width: 12px;
+    height: 12px;
+    }
+    #skills .scale ul li {
+    width: 12px;
+    height: 12px;
+    }
+    #about {
+    padding: 5px 35px 0px 35px;
+    }
+    #education {
+    padding: 0px 35px 0px 35px;
+    }
+    #education p {
+    margin-bottom: 20px;
+    }
+}
